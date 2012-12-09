@@ -1,5 +1,9 @@
 # hello-phonegap - Hello World for mobile apps with PhoneGap
 
+# HOMEPAGE
+
+https://play.google.com/store/apps/details?id=us.yellosoft.hellophonegap
+
 # VERSION
 
 1.0
